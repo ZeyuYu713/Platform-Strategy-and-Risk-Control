@@ -62,7 +62,7 @@ flowchart LR
 
 欺诈往往是低发生率事件。即便模型 Recall 很高，FPR 只有几个百分点，仍可能产生大量误报。用 Accuracy（总体正确率）评价会严重误导；必须结合业务基率（Prevalence）与误杀成本。
 
-一组可复算案例与阈值比较见 [风控指标专项](risk-metrics-and-thresholds.md)。
+一组可复算案例与阈值比较见 [风控指标专项](risk-metrics-and-thresholds.md)。进一步学习 [风控策略分层与处置设计](risk-policy-design.md)：讨论风险识别、风险判断、策略动作与结果确认的区别。
 
 ## 六、风控产品岗位实际做什么？
 
