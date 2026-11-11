@@ -89,7 +89,7 @@ SRM 本身不说明哪组效果好坏，却可能表明实验可比性已受损�
 
 ## 延伸阅读
 
-- [Trustworthy Online Controlled Experiments（书籍信息）](https://www.cambridge.org/core/books/trustworthy-online-controlled-experiments/803A7B8A1B6C8F4E51B8AE89121B388E)：在线实验常见工程与统计问题参考。
+- [Trustworthy Online Controlled Experiments（书籍信息）](https://www.cambridge.org/core/books/trustworthy-online-controlled-experiments/D97B26382EB0EB2DC2019A7A7B518F59)：在线实验常见工程与统计问题参考。
 - [NIST AI RMF](https://www.nist.gov/itl/ai-risk-management-framework)：高风险算法系统的治理与审查参考。
 
 [返回仓库首页](../README.md) · [下一章：综合案例](../07-cases-and-interviews/README.md)
