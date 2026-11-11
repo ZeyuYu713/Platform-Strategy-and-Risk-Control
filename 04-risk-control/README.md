@@ -88,6 +88,6 @@ flowchart LR
 ## 延伸阅读
 
 - [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)：AI 系统风险治理的一般参考，并非任何互联网风控场景的强制通用标准。
-- [OWASP Automated Threats to Web Applications](https://owasp.org/www-project-automated-threats-to-web-applications/)：自动化滥用风险分类的公开参考。
+- [OWASP Automated Threats to Web Applications](https://owasp.org/projects/automated-threats-to-web-applications)：自动化滥用风险分类的公开参考。
 
 [返回仓库首页](../README.md)
